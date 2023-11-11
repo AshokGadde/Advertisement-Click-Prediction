@@ -472,12 +472,17 @@ Click Prediction Model. Her expertise in Machine Learning and Deep Learning and 
 
 ## REFERENCES
 [1]	Yanwu Yang, and Panyu Zhai, ”Click-through rate prediction in online advertising: A literature review” Information Processing Management, volume 59, March 2022
+
 [2]	Erxue Min, Yu Rong, Tingyang Xu, Yatao Bian, Peilin Zhao, Junzhou Huang, Da Luo, Kangyi Lin, and Sophia Ananiadou, ”Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer” arXiv:2201.13311 [cs.IR], January 2022
+
 [3]	Buyun Zhang, Liang Luo, Xi Liu, Jay Li, Zeliang Chen, Weilin Zhang, Xiaohan Wei, Yuchen Hao, Michael Tsang, Wenjun Wang, Yang Liu, Huayu Li, Yasmine Badr, Jongsoo Park, Jiyan Yang, Dheevatsa Mudi- gere, and Ellie Wen, ”DHEN: A Deep and Hierarchical Ensemble Net- work for Large-Scale Click-Through Rate Prediction” arXiv:2203.11014 [cs.IR], March 2022
+
 [4]	Matthew Richardson, Ewa Dominowska, and Robert Ragno, ”Predicting clicks: estimating the click-through rate for new ads” Association for Computing Machinery, Pages 521–530, May 2007
  
 [5]	Xinran He, Junfeng Pan, Ou Jin, Tianbing Xu, Bo Liu, Tao Xu, Yanxin Shi, Antoine Atallah, Ralf Herbrich, Stuart Bowers, and Joaquin Quin˜onero  Candela,  ”Practical  Lessons  from  Predicting  Clicks  on  Ads at Facebook” Association for Computing Machinery, August 2014
+
 [6]	H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, Dietmar Ebner, Julian Grady, Lan Nie, Todd Phillips, Eugene Davydov, Daniel Golovin, Sharat Chikkerur, Dan Liu, Martin Wattenberg, Arnar Mar Hrafnkelsson, Tom Boulos, and Jeremy Kubica, ”Ad click prediction: a view from the trenches” Association for Computing Machinery, August 2013
+
 [7]	Bowen Yuan, Jui-Yang Hsia, Meng-Yuan Yang, Hong Zhu, Chih-Yao Chang, Zhenhua Dong, Chih-Jen Lin”Improving Ad Click Prediction by Considering Non-displayed Events” Association for Computing Ma- chinery, 2019
 
 
